@@ -1,2 +1,10 @@
-# TieXWeek
-Technology Collections Weekly
+## TieXWeek
+Technology FE Collections Weekly
+记录每周看到技术文章、时事、艺术、杂谈。😃
+
+## 2021
+
+**二月**
+
+- 第 1 期：[2021.2.5](docs/2021_2_5.md)
+
