@@ -8,4 +8,5 @@ Technology FE Collections Weekly
 
 - 第 1 期：[2021.2.05](docs/2021_2_05.md)
 - 第 2 期：[2021.2.19](docs/2021_2_19.md)
+- 第 3 期：[2021.2.26](docs/2021_2_26.md)
 
