@@ -1,0 +1,79 @@
+
+### 技术文章
+
++ **[1.5 万字 CSS 基础拾遗（核心知识、常见需求）](https://juejin.cn/post/6941206439624966152)**
+
+>  本篇文章围绕了 CSS 的核心知识点和项目中常见的需求来展开。虽然行文偏长，但较基础，适合初级中级前端阅读，阅读的时候请适当跳过已经掌握的部分。
+
+
++ **[常见的前端架构风格和案例](https://juejin.cn/post/6941388935234846751)**
+
+
+> 大家也许对架构风格不熟悉，但是一定熟悉设计模式。所谓的设计模式就是前人针对特定问题的一套解决方案，或者说是套路。架构风格也被称为架构模式，换句话说是架构方面的套路。也可以说是前人在架构方面总结出来的，用以解决特定问题的方法。
+透过现象看本质，我们来探讨下前端领域一些流行技术栈背后的架构思想。
+
+
++ **[经典性能优化面试题: 从一个 Transform 动画引发的关于浏览器渲染的深度思考](https://juejin.cn/post/6940980426437558285)**
+
+> 有一个部分关于Layer的相关分析
+
+
++ **[Microinteractions](https://www.nngroup.com/articles/microinteractions/)**
+> Microinteractions convey system status, support error prevention, and communicate brand. They are initiated by a trigger, are single-purpose, and can make the experience engaging. 旧的文章，最近在搜索一些交互设计时看到的。
+
++ **[设计稿（UI视图）自动生成代码方案的探索](https://mp.weixin.qq.com/s/rwl6rX_cGTtVYkVDy94bQQ)**
+
+>  此前，前端工程师尝试过将业务组件模块化构建成通用视图库，并通过拖拽、拼接等形式搭建业务模块，从而实现视图复用，降低设计稿转代码的研发成本。但随着业务的发展和个性化的驱动，通用视图库无法覆盖所有应用场景，本文提出了一种设计稿自动生成代码的方案。
+
++ **[如何实现高性能的在线 PDF 预览](https://www.infoq.cn/article/Lcz5uvNLmE1DSymtipkq)**
+
+>  如何实现高性能的在线 PDF 预览
+
+
++ **[Chrome 89 开启 Web 应用的物联网时代](https://developer.aliyun.com/article/782828)**
+
+>  3月初刚发布的Chrome 89，带来了哪些有意思的新特性呢？
+
+
++ **[]()
+
+### 新框架推荐
+
++ **[rxjs](https://github.com/reactivex/rxjs)**
+
+>  RxJS: Reactive Extensions For JavaScrip 已经很出名了，它通过使用 observable 序列来编写异步和基于事件的程序。但是似乎在大部分人平时的项目中使用不多。
+
+
++ **[Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)**
+
+
+> 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc. List contains source code, demo links, tech stack, and GitHub stars count. Great for learning purpose!
+
+
++ **[Awesome README ](https://github.com/matiassingers/awesome-readme)**
+
+> Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+
++ **[Svelte NodeGUI](https://svelte.nodegui.org/)**
+
+> 使用 Node.js 和 Svelte 构建高性能的跨平台应用。
+### 杂谈
+
++ **[这段涉及百度的AI秘史，说明AI注定是一场中美的“新军备竞赛”](https://posts.careerengine.us/p/605412f82e61cf72e86dc02c)**
+
+> 美国最近出版了一本新书《天才制造者》，透露了各大 IT 巨头开发人工智能的许多秘辛。
+2012年，李彦宏曾经拍板出资1200万美元，聘请当时还没有出名的"深度学习之父"多伦多大学的辛顿教授担任首席科学家，辛顿教授也动心了，但是最后还是被谷歌挖走了。
+
++ **[如何做一场高质量的分享](https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg)**
+
+> 最近我发现一些同学的分享越来越趋于“念稿”式。我一边看着分享的同学在上面念稿，另一边看着几十号人在下面看电脑看手机，我心里就特别着急。恨不得我自己上去讲，也恨不得没收了大家的电脑手机。但这种粗暴的方法肯定是不解决问题的，核心问题还是大家不善于分享。总结一下，讲讲如何做场高质量分享，希望能够给未来要做分享的同学提供一些帮助。
+
++ **[内核恐慌](https://pan.icu/)**
++ **[捕蛇者说](https://pythonhunter.org/)**
++ **[ggtalk - 程序员的闲聊节目](https://talk.swift.gg)**
++ **[The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)**
+
+> 一些高质量的技术播客推荐，习惯了用眼睛获取信息，其实听播客也是一种非常不错的获取信息的方式，而且播客的形式更轻松。
+
+
+
