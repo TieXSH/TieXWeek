@@ -1,0 +1,35 @@
+
+### 技术文章
++ **[New Features of JavaScript 2021](https://cmsinstallation.blogspot.com/2021/05/new-features-of-javascript-2021.html?utm_campaign=Frontend%2BWeekly&utm_medium=web&utm_source=Frontend_Weekly_257)**
+> Logical Operators(&&=, ||=, ??=), replaceAll method using String, Using underscores for integers as a separator, Promise.any(), WeakRef, Finalizers
+
++ **[大前端领域Middleware有几种实现方式？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245858&idx=1&sn=067a886532065bd328c32385199e6efc)**
+> 本文将横向对比大前端领域内各大框架的 Middleware 使用场景和实现原理，包括Express, Koa, Redux和Axios。
+
+
++ **[不要再用Vue 2的思维写Vue 3了](https://mp.weixin.qq.com/s/QL3cT899xM2zhjePdGqDkA)**
+> 其实Vue的主要使用群体用不到Vue3的主要特性。
+
+
++ **[WebGL绘图基本原理](https://mp.weixin.qq.com/s/TKVpJTRU1v-qP-BZ5EPWNA)**
+> WebGL对很多同学来说就是实现3D场景的，其实对2D绘图来说，也有很大的发挥场景。
+
+
++ **[浅谈 Vite 2.0 原理，依赖预编译，插件机制是如何兼容 Rollup 的？](https://zhuanlan.zhihu.com/p/352403391)**
+> Vite 2.0 在为用户启动开发服务器之前，先用 esbuild 把检测到的依赖预先构建了一遍。且从 preact 的 WMR 中得到了启发，把插件机制做成兼容 Rollup 的格式。
+
+### 框架&工具
++ **[各公司前端技术栈选型](https://www.yuque.com/zaotalk/team/st#6edd)**
+> 了解下各公司前端技术栈选型。
++ **[PINTR](https://javier.xyz/pintr/)**
+> 一个网页工具，可以让图片转为线条画。
+
++ **[Video encoding in the browser](https://avpress.zaps.dev/)**
+> 在线压缩视频（之前都是在线压缩图片），据说这个用了webAssembly.
+
++ **[](https://github.com/pmndrs/racing-game)**
+> 在线一个3D汽车游戏，感觉挺好
+
+### 设计/杂谈
++ **[Put a Background on Open Details Elements](https://css-tricks.com/put-a-background-on-open-details-elements/)**
+> 之前讲过的一种最近流行的设计趋势，让用户感知自己操作区域影响范围。
