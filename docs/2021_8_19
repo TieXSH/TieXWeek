@@ -1,0 +1,31 @@
+
+### 技术文章
+
++ **[static jamstack dynamic界限](https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/)**
+> 纯静态、动态、JamStack的区别，本文分析了界限，并且列举了一些三种各自的优势和适合的场景
+
++ **[细说 Vue.js 3.2 关于响应式部分的优化](https://juejin.cn/post/6995732683435278344)**
+> 如今，Vue.js 3.2 已经正式发布，而这次 minor 版本的升级主要体现在源码层级的优化，ref API 的读效率提升约为 260%，写效率提升约为 50% ，依赖收集的效率提升约为 40%，同时还减少了约 17% 的内存使用。这个优化并不是 Vue 官方人员实现的，而是社区一位大佬 @basvanmeurs 提出的，相关的优化代码在 2020 年 10 月 9 号就已经提交了，但由于对内部的实现改动较大，官方一直等到了 Vue.js 3.2 发布，才把代码合入。
+
++ **[前端异常监控和容灾](https://juejin.cn/post/6995235136547586084)**
+> 前端监控通常知道Sentry，但一般没了解一些常见的监控原理细节，本文介绍 了一些，可以学习下
+
+
++ **[多媒体前端技术入门指南](https://developer.aliyun.com/article/787362?spm=a2c6h.12873581.0.dArticle787362.292b78c5IaE3Cj&groupCode=alibabaf2e)**
+> 了解近几年阿里在前端×多媒体交叉领域有哪些方向的工作，有哪些实践和落地.
+
+
+### 设计&杂谈
+
+
++ **[云服务流量有多贵](https://blog.cloudflare.com/aws-egregious-egress/)**
+> 上月，Cloudflare 的官网发表了一篇罕见的文章，它的 CEO 抨击亚马逊网络服务，流量收费太贵。Cloudflare 根据自己从机房拿到的批发价推算，亚马逊在北美和欧洲，向用户收取的流量费，是批发价的80倍！
+机房的带宽批发价是 1Mbps 收费0.08美元，亚马逊转手卖给开发者，价格就是6.37美元！
+
+
++ **[open-source-icons](https://www.smashingmagazine.com/2021/08/open-source-icons/)**
+> Free Open-Source Icons
+
+
+
+
