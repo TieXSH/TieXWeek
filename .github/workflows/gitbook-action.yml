@@ -13,3 +13,4 @@ jobs:
       uses: ZanderZhao/gitbook-action@v1.2.4
       with:                                   #    or fork this repo and use YourName/gitbook-action@master
         token: ${{ secrets.GITBOOK }}  # -> remember add this in settings/secrets as following
+        source_branch: main
