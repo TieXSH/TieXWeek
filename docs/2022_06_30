@@ -1,0 +1,13 @@
+### 技术文章
++ **[https://developer.chrome.com/blog/early-hints/](https://developer.chrome.com/blog/early-hints/)**
+> Faster page loads using server think-time with Early Hints. 有点像chrome与server事先达成某种预测，请求某html，server提前预判待请求的其他资源文件，提前准备。
++ **[https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api/](https://www.smashingmagazine.com/2022/06/precise-timing-web-animations-api/)**
+>  Web Animations API 实践。
+
+### 工具&&框架
++ **[https://github.com/open-source-labs/reactime/releases/tag/v14.0.0](https://github.com/open-source-labs/reactime/releases/tag/v14.0.0)**
+> react dev tool. reactime 14版本
+
+### 设计&&杂谈
++ **[地球时钟](https://earthclock.cwandt.com/)**
+> 使用卫星照片，显示当前的数字时间。（网络卡体验会比较差）
